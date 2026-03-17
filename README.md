@@ -1,2 +1,2 @@
-# PayFlex
-A digital payment platform designed for secure onboarding, wallet management, and fund transfers, providing a seamless experience for users.
+# FieldOps Intelligence Platform
+A full-stack FieldOps platform that collects, processes, and visualizes operational data in real time to support faster, data-driven decision-making.
